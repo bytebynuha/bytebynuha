@@ -21,6 +21,16 @@
 
 > **Build. Break. Learn. Repeat.**
 
+## 🐍 My Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bytebynuha/bytebynuha/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bytebynuha/bytebynuha/output/github-snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/bytebynuha/bytebynuha/output/github-snake.svg">
+  </picture>
+</p>
+
 ### 🤝 Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/nuhakhan-/) • [Portfolio](YOUR_PORTFOLIO_URL) • [Email](mailto:nnuhakhan.2006@gmail.com)
