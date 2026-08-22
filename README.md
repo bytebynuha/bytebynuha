@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Nuha
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Nuha!+%F0%9F%91%8B;Big+Data+Analytics+Student+%F0%9F%92%BB;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Turning+data+into+ideas+%F0%9F%93%8A;Building+cool+things+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ### `Turning data into insights and ideas into code.`
 
