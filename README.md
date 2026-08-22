@@ -20,4 +20,4 @@
 
 ### 🤝 Let's Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [Portfolio](YOUR_PORTFOLIO_URL) • [Email](mailto:YOUR_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/nuhakhan-/) • [Portfolio](YOUR_PORTFOLIO_URL) • [Email](mailto:nnuhakhan.2006@gmail.com)
